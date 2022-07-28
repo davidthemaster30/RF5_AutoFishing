@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RF5_AutoFishing", "RF5_AutoFishing.csproj", "{9FCA941C-05A3-41CF-9B95-E799DFB0A67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FCA941C-05A3-41CF-9B95-E799DFB0A67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCA941C-05A3-41CF-9B95-E799DFB0A67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCA941C-05A3-41CF-9B95-E799DFB0A67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCA941C-05A3-41CF-9B95-E799DFB0A67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C75EFDF-6AA6-472F-B1A2-EA6295C5F0A4}
+	EndGlobalSection
+EndGlobal
