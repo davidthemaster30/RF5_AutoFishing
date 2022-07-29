@@ -17,12 +17,15 @@ namespace RF5_AutoFishing
         #region PluginInfo
         private const string GUID = "A8262A85-88AF-873E-E27A-DD44C5CE423A";
         private const string NAME = "RF5_AutoFishing";
-        private const string VERSION = "1.0";
+        private const string VERSION = "1.0.1";
         private const string GAME_PROCESS = "Rune Factory 5.exe";
         #endregion
 
+        public static new ManualLogSource Log;
+
         public override void Load()
         {
+            Log = base.Log;
             new Harmony(GUID).PatchAll();
         }
     }

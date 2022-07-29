@@ -69,6 +69,10 @@
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>G:\Rune Factory 5\BepInEx\unity-libs\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>G:\Rune Factory 5\BepInEx\unhollowed\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FishingManagerPatch.cs" />
