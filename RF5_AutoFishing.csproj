@@ -5,7 +5,7 @@
     <Description>RF5_AutoFishing</Description>
     <Product>RF5_AutoFishing</Product>
     <Company>https://github.com/davidthemaster30/RF5_AutoFishing</Company>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <LangVersion>latest</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <RootNamespace>RF5_AutoFishing</RootNamespace>
