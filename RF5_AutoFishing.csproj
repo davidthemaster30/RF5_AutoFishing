@@ -5,7 +5,7 @@
     <Description>RF5_AutoFishing</Description>
     <Product>RF5_AutoFishing</Product>
     <Company>https://github.com/davidthemaster30/RF5_AutoFishing</Company>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
     <LangVersion>latest</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <RootNamespace>RF5_AutoFishing</RootNamespace>
@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.725" IncludeAssets="compile" />
+    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.785" IncludeAssets="compile" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
     <PackageReference Include="UnityEngine.Modules" Version="2019.4.17">
       <PrivateAssets>all</PrivateAssets>
